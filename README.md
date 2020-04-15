@@ -17,3 +17,5 @@ You can install the package  from CRAN as follows:
 
 install.packages("arules")
 
+# License
+[MIT](https://choosealicense.com/licenses/mit/#suggest-this-license)
